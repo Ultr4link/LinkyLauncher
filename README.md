@@ -11,6 +11,24 @@
 
 ---
 
+## 📸 Vista Previa
+
+### Inicio y Autenticación
+<div align="center">
+  <img src="screenshots/InicioLauncher.png" width="400" alt="Inicio del Launcher">
+  <img src="screenshots/Login.png" width="400" alt="Pantalla de Login">
+</div>
+
+### Temas Exclusivos
+Disfruta de una interfaz inmersiva con nuestros temas dinámicos.
+<div align="center">
+  <img src="screenshots/Tema1.png" width="260" alt="Tema 1">
+  <img src="screenshots/Tema2.png" width="260" alt="Tema 2">
+  <img src="screenshots/Tema3.png" width="260" alt="Tema 3">
+</div>
+
+---
+
 ## 🚀 Sobre el Proyecto
 
 Linky Launcher es una aplicación de escritorio de alto rendimiento diseñada para ofrecer la mejor experiencia al gestionar instalaciones y modpacks de Minecraft. Construido con una arquitectura moderna basada en **Rust** y **React**, garantiza velocidad, seguridad y un consumo mínimo de recursos.
