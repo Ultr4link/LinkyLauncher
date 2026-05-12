@@ -5,7 +5,7 @@
   
   **El mejor launcher de Minecraft creado en México.**
   
-  [![Version](https://img.shields.io/badge/version-0.1.0-00AF5C?style=for-the-badge)](https://github.com/Ultr4link/LinkyLauncher/releases)
+  [![Version](https://img.shields.io/github/v/release/Ultr4link/LinkyLauncher?style=for-the-badge&color=00AF5C)](https://github.com/Ultr4link/LinkyLauncher/releases)
   [![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)](https://github.com/Ultr4link/LinkyLauncher/releases)
 </div>
 
