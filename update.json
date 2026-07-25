@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1-beta",
-  "notes": "Lanzamiento oficial de Linky Launcher v0.2.1 Beta. ¡Disfruta!",
+  "version": "0.2.2-beta",
+  "notes": "Lanzamiento oficial de Linky Launcher v0.2.2 Beta. ¡Disfruta!",
   "pub_date": "2026-05-08T18:25:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzhUdVV2VS9HeE5lRzNXelZwUWJ6NlBCWDJZNzlxdVlHYW9BNGsxZGZPTVFGckpTYUVFU1hTUUVaTStnQ0pXM0RuQ1drdW14cUpYMkJQYUlWT0lnODltQnhxWWY4Y2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDQ4Mzg1CWZpbGU6TGlua3kgTGF1bmNoZXJfMC4yLjFfeDY0LXNldHVwLmV4ZQpKZG9EN3ZVOW1kMjRFTTlXVTBsM0JBNUFqeC9PbmhPOXhxZ3M0QlNWM01IVUppb1ZtRTlTN3AxdXhGWGhYVDRhWmZRZGtMZEU3ZXlTM1B2OHl1U1pEUT09Cg==",
-      "url": "https://github.com/Ultr4link/LinkyLauncher/releases/download/v0.2.1/Linky.Launcher_0.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzhUdVV2VS9HeEJML0d4bGVsQkp6WjRxYm1sUzNXdDdzeDluSHZ5RG1Jdm94cWwyMndpeVJKUlBPRG1QdE9oQ1A0NFppZjRadHVMNkt5bTFLMmNTUUR5YmFHcXJqaFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTUyNDI0CWZpbGU6TGlua3kgTGF1bmNoZXJfMC4yLjJfeDY0LXNldHVwLmV4ZQoyV2JtSWIyWHV3anlGbGlDRWdldnM2VzM0T3IyZVcxMkRxQXlEVXlPQldJaWo2dFhCbFBvM2ZYengrVjA2T0ZrSUlQamI3K2czWmc3MUI3V3RaU3pBQT09Cg==",
+      "url": "https://github.com/Ultr4link/LinkyLauncher/releases/download/v0.2.2/Linky.Launcher_0.2.2_x64-setup.exe"
     }
   }
 }
